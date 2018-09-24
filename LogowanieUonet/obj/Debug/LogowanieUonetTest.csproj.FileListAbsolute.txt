@@ -1,0 +1,39 @@
+c:\users\kwozniak\documents\visual studio 2012\Projects\LogowanieUonet\LogowanieUonet\obj\Debug\LogowanieUonetTest.csprojResolveAssemblyReference.cache
+c:\users\kwozniak\documents\visual studio 2012\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\App.config
+c:\users\kwozniak\documents\visual studio 2012\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\LogowanieUonet.dll.config
+c:\users\kwozniak\documents\visual studio 2012\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\LogowanieUonet.dll
+c:\users\kwozniak\documents\visual studio 2012\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\LogowanieUonet.pdb
+c:\users\kwozniak\documents\visual studio 2012\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\LogowanieUonetPages.dll
+c:\users\kwozniak\documents\visual studio 2012\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\nunit.framework.dll
+c:\users\kwozniak\documents\visual studio 2012\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\VCommonPages.dll
+c:\users\kwozniak\documents\visual studio 2012\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\VRanorexLib.dll
+c:\users\kwozniak\documents\visual studio 2012\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\Ranorex.Core.WinApi.dll
+c:\users\kwozniak\documents\visual studio 2012\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\Ranorex.Core.Injector.dll
+c:\users\kwozniak\documents\visual studio 2012\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\Ranorex.Libs.WinForms.dll
+c:\users\kwozniak\documents\visual studio 2012\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\LogowanieUonetPages.pdb
+c:\users\kwozniak\documents\visual studio 2012\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\VCommonPages.pdb
+c:\users\kwozniak\documents\visual studio 2012\Projects\LogowanieUonet\LogowanieUonet\obj\Debug\LogowanieUonet.dll
+c:\users\kwozniak\documents\visual studio 2012\Projects\LogowanieUonet\LogowanieUonet\obj\Debug\LogowanieUonet.pdb
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\App.config
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\LogowanieUonet.dll.config
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\LogowanieUonet.dll
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\LogowanieUonet.pdb
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\LogowanieUonetPages.dll
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\nunit.framework.dll
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\Ranorex.Core.dll
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\Ranorex.Libs.dll
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\Ranorex.Plugin.Web.dll
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\VCommonPages.dll
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\VRanorexLib.dll
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\Ranorex.Core.WinApi.dll
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\stdole.dll
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\Ranorex.Plugin.Win32.dll
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\Ranorex.Libs.Web.dll
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\Ranorex.Core.Injector.dll
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\Ranorex.Libs.WinForms.dll
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\LogowanieUonetPages.pdb
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\VCommonPages.pdb
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\bin\Debug\Ranorex.Plugin.Win32.xml
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\obj\Debug\LogowanieUonetTest.csprojResolveAssemblyReference.cache
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\obj\Debug\LogowanieUonet.dll
+E:\VULCAN\Projects\LogowanieUonet\LogowanieUonet\obj\Debug\LogowanieUonet.pdb

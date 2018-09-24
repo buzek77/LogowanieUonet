@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="RanorexReport.xsl"?>
+<log title="Ranorex Test Report" rxversion="3.3.1.18438" osversion="Windows 8 64bit" runtimeversion="4.0.30319.34014" procarch="64bit">
+<message time="2015/08/12 13:44:02.113" level="WARN" category="Automation" style="">
+<![CDATA[The apartment state of the current thread is not set to STA. Please make sure that all threads accessing Ranorex methods have their apartment state set to STA.]]><br/>
+</message>
+</log>

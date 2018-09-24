@@ -1,0 +1,47 @@
+C:\subversion\Efeb_testy\trunk\VCommonPages\VCommonPages\bin\Debug\VCommonPages.dll
+C:\subversion\Efeb_testy\trunk\VCommonPages\VCommonPages\bin\Debug\VCommonPages.pdb
+C:\subversion\Efeb_testy\trunk\VCommonPages\VCommonPages\bin\Debug\nunit.framework.dll
+C:\subversion\Efeb_testy\trunk\VCommonPages\VCommonPages\bin\Debug\VRanorexLib.dll
+C:\subversion\Efeb_testy\trunk\VCommonPages\VCommonPages\bin\Debug\Ranorex.Core.WinApi.dll
+C:\subversion\Efeb_testy\trunk\VCommonPages\VCommonPages\bin\Debug\Ranorex.Core.Injector.dll
+C:\subversion\Efeb_testy\trunk\VCommonPages\VCommonPages\bin\Debug\Ranorex.Libs.WinForms.dll
+C:\subversion\Efeb_testy\trunk\VCommonPages\VCommonPages\obj\Debug\VCommonPages.dll
+C:\subversion\Efeb_testy\trunk\VCommonPages\VCommonPages\obj\Debug\VCommonPages.pdb
+C:\subversion\Efeb_testy\trunk\VCommonPages\VCommonPages\obj\Debug\VCommonPages.csprojResolveAssemblyReference.cache
+C:\Users\Kwozniak\Documents\Visual Studio 2013\Projects\Subversion\GoogleKalkulatorTest\VCommonPages\bin\Debug\VCommonPages.dll
+C:\Users\Kwozniak\Documents\Visual Studio 2013\Projects\Subversion\GoogleKalkulatorTest\VCommonPages\bin\Debug\VCommonPages.pdb
+C:\Users\Kwozniak\Documents\Visual Studio 2013\Projects\Subversion\GoogleKalkulatorTest\VCommonPages\bin\Debug\nunit.framework.dll
+C:\Users\Kwozniak\Documents\Visual Studio 2013\Projects\Subversion\GoogleKalkulatorTest\VCommonPages\bin\Debug\VRanorexLib.dll
+C:\Users\Kwozniak\Documents\Visual Studio 2013\Projects\Subversion\GoogleKalkulatorTest\VCommonPages\bin\Debug\Ranorex.Core.WinApi.dll
+C:\Users\Kwozniak\Documents\Visual Studio 2013\Projects\Subversion\GoogleKalkulatorTest\VCommonPages\bin\Debug\Ranorex.Core.Injector.dll
+C:\Users\Kwozniak\Documents\Visual Studio 2013\Projects\Subversion\GoogleKalkulatorTest\VCommonPages\bin\Debug\Ranorex.Libs.WinForms.dll
+C:\Users\Kwozniak\Documents\Visual Studio 2013\Projects\Subversion\GoogleKalkulatorTest\VCommonPages\obj\Debug\VCommonPages.csprojResolveAssemblyReference.cache
+C:\Users\Kwozniak\Documents\Visual Studio 2013\Projects\Subversion\GoogleKalkulatorTest\VCommonPages\obj\Debug\VCommonPages.dll
+C:\Users\Kwozniak\Documents\Visual Studio 2013\Projects\Subversion\GoogleKalkulatorTest\VCommonPages\obj\Debug\VCommonPages.pdb
+C:\Users\Kwozniak\Documents\Visual Studio 2012\Projects\LogowanieUonet\VCommonPages\obj\Debug\VCommonPages.csprojResolveAssemblyReference.cache
+C:\Users\Kwozniak\Documents\Visual Studio 2012\Projects\LogowanieUonet\VCommonPages\obj\Debug\VCommonPages.dll
+C:\Users\Kwozniak\Documents\Visual Studio 2012\Projects\LogowanieUonet\VCommonPages\bin\Debug\VCommonPages.dll
+C:\Users\Kwozniak\Documents\Visual Studio 2012\Projects\LogowanieUonet\VCommonPages\bin\Debug\VCommonPages.pdb
+C:\Users\Kwozniak\Documents\Visual Studio 2012\Projects\LogowanieUonet\VCommonPages\bin\Debug\nunit.framework.dll
+C:\Users\Kwozniak\Documents\Visual Studio 2012\Projects\LogowanieUonet\VCommonPages\bin\Debug\VRanorexLib.dll
+C:\Users\Kwozniak\Documents\Visual Studio 2012\Projects\LogowanieUonet\VCommonPages\bin\Debug\Ranorex.Core.WinApi.dll
+C:\Users\Kwozniak\Documents\Visual Studio 2012\Projects\LogowanieUonet\VCommonPages\bin\Debug\Ranorex.Core.Injector.dll
+C:\Users\Kwozniak\Documents\Visual Studio 2012\Projects\LogowanieUonet\VCommonPages\bin\Debug\Ranorex.Libs.WinForms.dll
+C:\Users\Kwozniak\Documents\Visual Studio 2012\Projects\LogowanieUonet\VCommonPages\obj\Debug\VCommonPages.pdb
+E:\VULCAN\Projects\LogowanieUonet\VCommonPages\bin\Debug\VCommonPages.dll
+E:\VULCAN\Projects\LogowanieUonet\VCommonPages\bin\Debug\VCommonPages.pdb
+E:\VULCAN\Projects\LogowanieUonet\VCommonPages\bin\Debug\nunit.framework.dll
+E:\VULCAN\Projects\LogowanieUonet\VCommonPages\bin\Debug\Ranorex.Core.dll
+E:\VULCAN\Projects\LogowanieUonet\VCommonPages\bin\Debug\Ranorex.Libs.dll
+E:\VULCAN\Projects\LogowanieUonet\VCommonPages\bin\Debug\Ranorex.Plugin.Web.dll
+E:\VULCAN\Projects\LogowanieUonet\VCommonPages\bin\Debug\VRanorexLib.dll
+E:\VULCAN\Projects\LogowanieUonet\VCommonPages\bin\Debug\Ranorex.Core.WinApi.dll
+E:\VULCAN\Projects\LogowanieUonet\VCommonPages\bin\Debug\stdole.dll
+E:\VULCAN\Projects\LogowanieUonet\VCommonPages\bin\Debug\Ranorex.Plugin.Win32.dll
+E:\VULCAN\Projects\LogowanieUonet\VCommonPages\bin\Debug\Ranorex.Libs.Web.dll
+E:\VULCAN\Projects\LogowanieUonet\VCommonPages\bin\Debug\Ranorex.Core.Injector.dll
+E:\VULCAN\Projects\LogowanieUonet\VCommonPages\bin\Debug\Ranorex.Libs.WinForms.dll
+E:\VULCAN\Projects\LogowanieUonet\VCommonPages\bin\Debug\Ranorex.Plugin.Win32.xml
+E:\VULCAN\Projects\LogowanieUonet\VCommonPages\obj\Debug\VCommonPages.csprojResolveAssemblyReference.cache
+E:\VULCAN\Projects\LogowanieUonet\VCommonPages\obj\Debug\VCommonPages.dll
+E:\VULCAN\Projects\LogowanieUonet\VCommonPages\obj\Debug\VCommonPages.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogowanieUonetTest", "LogowanieUonet\LogowanieUonetTest.csproj", "{18202594-8A56-4D2F-9664-11B0B62C74C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogowanieUonetPages", "LogowanieUonetPages\LogowanieUonetPages.csproj", "{CCDF731B-600B-4CBA-BB10-43522DE5909A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VCommonPages", "VCommonPages\VCommonPages.csproj", "{639ED39B-61F2-407F-B31F-93672F7AA8F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18202594-8A56-4D2F-9664-11B0B62C74C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18202594-8A56-4D2F-9664-11B0B62C74C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18202594-8A56-4D2F-9664-11B0B62C74C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18202594-8A56-4D2F-9664-11B0B62C74C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCDF731B-600B-4CBA-BB10-43522DE5909A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDF731B-600B-4CBA-BB10-43522DE5909A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDF731B-600B-4CBA-BB10-43522DE5909A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDF731B-600B-4CBA-BB10-43522DE5909A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{639ED39B-61F2-407F-B31F-93672F7AA8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639ED39B-61F2-407F-B31F-93672F7AA8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639ED39B-61F2-407F-B31F-93672F7AA8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639ED39B-61F2-407F-B31F-93672F7AA8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

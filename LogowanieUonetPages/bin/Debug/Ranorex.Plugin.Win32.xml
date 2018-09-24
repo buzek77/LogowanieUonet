@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Ranorex.Plugin.Win32</name>
+    </assembly>
+    <members>
+        <member name="T:Ranorex.NativeItem">
+            <summary>
+            This element represents a native item (a logical part of a win32 control).
+            </summary>
+        </member>
+        <member name="M:Ranorex.NativeItem.#ctor">
+            <summary>
+            Creates a new <see cref="T:Ranorex.NativeItem"/> adapter instance. This constructor is used
+            internally by the Ranorex Core Framework for performance issues!
+            </summary>
+        </member>
+        <member name="M:Ranorex.NativeItem.#ctor(Ranorex.Core.Element)">
+            <summary>
+            Creates a new <see cref="T:Ranorex.NativeItem"/> adapter instance.
+            </summary>
+            <param name="element">The element to create the adapter for.</param>
+            <exception cref="T:System.NullReferenceException">If <paramref name="element"/> is <c>null</c>.</exception>
+            <exception cref="T:Ranorex.CapabilityNotSupportedException">If the element does not support the
+            capabilities required by this adapter.</exception>
+        </member>
+        <member name="M:Ranorex.NativeItem.op_Implicit(System.String)~Ranorex.NativeItem">
+            <summary>
+            Implicitly converts a string to an instance of this class by searching the root.
+            </summary>
+            <param name="path">The search path.</param>
+            <returns>The NativeItem.</returns>
+            <remarks>The <see cref="P:Ranorex.Adapter.DefaultSearchTimeout"/> is used to search for the specified path.</remarks>
+            <exception cref="T:System.ArgumentNullException">If <paramref name="path"/> is <c>null</c>.</exception>
+            <exception cref="T:Ranorex.RxPathException">If the specified <paramref name="path"/> is not valid.</exception>
+            <exception cref="T:Ranorex.ElementNotFoundException">If no element is found.</exception>
+            <exception cref="T:Ranorex.CapabilityNotSupportedException">If the element does not support the
+            capabilities required by this adapter.</exception>
+        </member>
+        <member name="M:Ranorex.NativeItem.op_Implicit(Ranorex.Core.Element)~Ranorex.NativeItem">
+            <summary>
+            Implicitly converts an <see cref="T:Ranorex.Core.Element"/> to an instance of this class.
+            </summary>
+            <param name="element">The element to convert.</param>
+            <returns>The NativeItem.</returns>
+            <exception cref="T:System.ArgumentNullException">If <paramref name="element"/> is <c>null</c>.</exception>
+            <exception cref="T:Ranorex.CapabilityNotSupportedException">If the element does not support the
+            capabilities required by this adapter.</exception>
+        </member>
+        <member name="P:Ranorex.NativeItem.CommandId">
+            <summary>
+            The item command id.
+            </summary>
+        </member>
+        <member name="P:Ranorex.NativeItem.RequiredCapabilities">
+            <summary>
+            Capabilities required by the adapter implementation.
+            </summary>
+        </member>
+        <member name="T:Ranorex.NativeWindow">
+            <summary>
+            This element is a native win32 window or control.
+            </summary>
+        </member>
+        <member name="M:Ranorex.NativeWindow.#ctor">
+            <summary>
+            Creates a new <see cref="T:Ranorex.NativeWindow"/> adapter instance. This constructor is used
+            internally by the Ranorex Core Framework for performance issues!
+            </summary>
+        </member>
+        <member name="M:Ranorex.NativeWindow.#ctor(Ranorex.Core.Element)">
+            <summary>
+            Creates a new <see cref="T:Ranorex.NativeWindow"/> adapter instance.
+            </summary>
+            <param name="element">The element to create the adapter for.</param>
+            <exception cref="T:System.NullReferenceException">If <paramref name="element"/> is <c>null</c>.</exception>
+            <exception cref="T:Ranorex.CapabilityNotSupportedException">If the element does not support the
+            capabilities required by this adapter.</exception>
+        </member>
+        <member name="M:Ranorex.NativeWindow.op_Implicit(System.String)~Ranorex.NativeWindow">
+            <summary>
+            Implicitly converts a string to an instance of this class by searching the root.
+            </summary>
+            <param name="path">The search path.</param>
+            <returns>The NativeWindow.</returns>
+            <remarks>The <see cref="P:Ranorex.Adapter.DefaultSearchTimeout"/> is used to search for the specified path.</remarks>
+            <exception cref="T:System.ArgumentNullException">If <paramref name="path"/> is <c>null</c>.</exception>
+            <exception cref="T:Ranorex.RxPathException">If the specified <paramref name="path"/> is not valid.</exception>
+            <exception cref="T:Ranorex.ElementNotFoundException">If no element is found.</exception>
+            <exception cref="T:Ranorex.CapabilityNotSupportedException">If the element does not support the
+            capabilities required by this adapter.</exception>
+        </member>
+        <member name="M:Ranorex.NativeWindow.op_Implicit(Ranorex.Core.Element)~Ranorex.NativeWindow">
+            <summary>
+            Implicitly converts an <see cref="T:Ranorex.Core.Element"/> to an instance of this class.
+            </summary>
+            <param name="element">The element to convert.</param>
+            <returns>The NativeWindow.</returns>
+            <exception cref="T:System.ArgumentNullException">If <paramref name="element"/> is <c>null</c>.</exception>
+            <exception cref="T:Ranorex.CapabilityNotSupportedException">If the element does not support the
+            capabilities required by this adapter.</exception>
+        </member>
+        <member name="P:Ranorex.NativeWindow.AppHung">
+            <summary>
+            A flag which represents if the application the window belongs to seems to be hanging.
+            </summary>
+        </member>
+        <member name="P:Ranorex.NativeWindow.Class">
+            <summary>
+            The name of the native window class.
+            </summary>
+        </member>
+        <member name="P:Ranorex.NativeWindow.ControlId">
+            <summary>
+            The control id of the window.
+            </summary>
+        </member>
+        <member name="P:Ranorex.NativeWindow.Handle">
+            <summary>
+            The handle of the native window.
+            </summary>
+        </member>
+        <member name="P:Ranorex.NativeWindow.Instance">
+            <summary>
+            The instance number of the window for a given class with respect to its siblings.
+            </summary>
+        </member>
+        <member name="P:Ranorex.NativeWindow.ProcessId">
+            <summary>
+            The process id of the process that owns the native window.
+            </summary>
+        </member>
+        <member name="P:Ranorex.NativeWindow.ProcessName">
+            <summary>
+            The process name of the process that owns the native window.
+            </summary>
+        </member>
+        <member name="P:Ranorex.NativeWindow.WindowExtendedStyle">
+            <summary>
+            The extended style of the window.
+            </summary>
+        </member>
+        <member name="P:Ranorex.NativeWindow.WindowStyle">
+            <summary>
+            The style of the window.
+            </summary>
+        </member>
+        <member name="P:Ranorex.NativeWindow.WindowText">
+            <summary>
+            The text of the window.
+            </summary>
+        </member>
+        <member name="P:Ranorex.NativeWindow.RequiredCapabilities">
+            <summary>
+            Capabilities required by the adapter implementation.
+            </summary>
+        </member>
+        <member name="T:Ranorex.Plugin.Win32Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Ranorex.Plugin.Win32Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Ranorex.Plugin.Win32Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

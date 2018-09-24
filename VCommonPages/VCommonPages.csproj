@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{639ED39B-61F2-407F-B31F-93672F7AA8F1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VCommonPages</RootNamespace>
+    <AssemblyName>VCommonPages</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="nunit.framework, Version=2.4.8.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>vendros\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Core, Version=3.3.1.18438, Culture=neutral, PublicKeyToken=b798506b574ebc9a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>vendros\Ranorex.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Libs, Version=3.3.1.18438, Culture=neutral, PublicKeyToken=b798506b574ebc9a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>vendros\Ranorex.Libs.dll</HintPath>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.Web, Version=3.3.1.18438, Culture=neutral, PublicKeyToken=b798506b574ebc9a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>vendros\Ranorex.Plugin.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VRanorexLib, Version=1.0.16.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>vendros\VRanorexLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseTest.cs" />
+    <Compile Include="Pages\Common\HtmlTable.cs" />
+    <Compile Include="Pages\Common\MainRibbonPage.cs" />
+    <Compile Include="Pages\Common\VEditorPage.cs" />
+    <Compile Include="Pages\Common\VMessageBox.cs" />
+    <Compile Include="Pages\Common\VModelSection.cs" />
+    <Compile Include="Pages\Common\VSwitchPanel.cs" />
+    <Compile Include="Pages\Common\VWindowPage.cs" />
+    <Compile Include="Pages\Page.cs" />
+    <Compile Include="Pages\PortalLoginPage.cs" />
+    <Compile Include="Pages\SilverlightCommon\CSVImport.cs" />
+    <Compile Include="Pages\SilverlightCommon\SilverlightHybridWindow.cs" />
+    <Compile Include="Pages\SilverlightCommon\SilverlightTable.cs" />
+    <Compile Include="Pages\SilverlightCommon\SilverlightSimpleEditorWindow.cs" />
+    <Compile Include="Pages\SilverlightCommon\SilverlightTableEditorWindow.cs" />
+    <Compile Include="Pages\SilverlightCommon\SilverlightPage.cs" />
+    <Compile Include="Pages\SilverlightCommon\SilverlightLabelTextboxSection.cs" />
+    <Compile Include="Pages\SilverlightCommon\SilverlightInfoPopup.cs" />
+    <Compile Include="Pages\SilverlightCommon\WydrukiPage.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Pages\VOpenSaveDialogBox.cs" />
+    <Compile Include="Pages\VPrintDialogBox.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
